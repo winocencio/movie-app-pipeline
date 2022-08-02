@@ -6,10 +6,10 @@ Contrução de uma Pipeline para um front-end de website.
 
 ## Roadmap
 
-[X] Criar bucket s3 e deixar publico  
-[ ] Entregar o site buildado para bucket ao realizar push  
-[ ] Vincular dominio proprio ao bucket  
-[ ] Vincular ao CloudFront
+- [X] Criar bucket s3 e deixar publico  
+- [ ] Entregar o site buildado para bucket ao realizar push  
+- [ ] Vincular dominio proprio ao bucket  
+- [ ] Vincular ao CloudFront
 
 
 ## Stack
